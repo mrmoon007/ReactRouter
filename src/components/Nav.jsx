@@ -15,6 +15,9 @@ export default function Nav() {
             <li>
                 <NavLink to='contact'>Contact</NavLink>
             </li>
+            <li>
+                <NavLink to='blogs'>Blogs</NavLink>
+            </li>
         </ul>
       </nav>
     </div>
