@@ -1,3 +1,15 @@
 .container {
   padding: 10px;
 }
+
+button {
+  margin: 10px 0 0 0;
+  padding: 5px;
+  background-color: aliceblue;
+  border-radius: 5px;
+}
+
+button:hover {
+  background-color: black;
+  color: white;
+}
